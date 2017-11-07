@@ -1,0 +1,29 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:id="@+id/table21"
+        android:title="Current Tasks" />
+
+    <item android:id="@+id/table5pp"
+        android:title="Task DB" />
+
+    <item android:id="@+id/table6pp"
+        android:title="Breaktime Records" />
+
+    <item android:id="@+id/table2pp"
+        android:title="Timeout Tasks" />
+
+    <item android:id="@+id/table3pp"
+        android:title="Cancelled Tasks" />
+
+    <item android:id="@+id/table8pp"
+        android:title="Mechanic Status" />
+
+    <item android:id="@+id/table7pp"
+        android:title="Attendance Records" />
+
+    <item android:id="@+id/meeting"
+        android:title="User Login" />
+
+    <item android:id="@+id/externalSrc"
+        android:title="Mech Status [external]" />
+</menu>
